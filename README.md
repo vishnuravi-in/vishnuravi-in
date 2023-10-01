@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu Ravi
 - 🌍 I live in Kerala,India
-- 👀 I’m interested in web development and cyber security
+- 👀 I’m interested in web development and Cyber Security
 - 🌱 I’m currently learning Bachelor's in Computer Applications 
 - 💞️ I’m looking to collaborate with other Developers
 - 📫 How to reach me @vishnuravi-in
